@@ -284,7 +284,9 @@ FAR Part 16 describes different incentives that may be used in contracts to ensu
 > #### Examples of Performance Incentives
 > 
 > - Use award term contracts where the contractor earns an extension after the Government determines that the contractor’s performance is excellent (extension conditioned upon the Government’s continuing need for the service and the availability of funds).
-> - Provide incentives for completing all (or a certain percentage of) sprint cycles with 100% client acceptance, or tie incentives to minor or major releases.  
+> - Provide incentives for completing all (or a certain percentage of) sprint cycles with 100% client acceptance, or tie incentives to minor or major releases.  This may not be a good measure of performance.  If the team is following a Sprint process generally speaking there will be stories that are missed or not accepted by the client etc. Those are part of the normal development cycle as the nature of the Agile development is that it is a iterative process. If a team said that they delivered all the stories on time it seems fishy.  It could mean that they are sandbagging the tasks so that there is no chance of failure or the tasks are defined so narrow that there is no room for adjustment. 
+> - An alternate solution for incentive is to measure if the team has delivered the features out lines for the sprint cycle and the end user (not just the client) feedback is positive. The end user feed back is important because, if the end users are satisfied, it would imply that the product is useful. 
+
 > - Use of Fixed-price incentive contracts (FAR 16.403) or Fixed-price contracts with award fee (FAR 16.404) may provide additional contractor incentives. With a fixed price incentive contract, capture 10% of the fixed fee in an incentive pool and distribute it when the contractor meets key milestones, pay the remaining 90% as a fixed price performance payment.  Agency and contractor agree in advance to acceptance criteria, performance requirements, and metrics.
 
 **Question** — How does the Government ensure fair and reasonable prices when acquiring a process such as Agile software development?
